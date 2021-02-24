@@ -1,0 +1,36 @@
+﻿/* ELEMENT SELECTORS */
+
+body {
+    background-color:lawngreen;
+}
+
+td {
+    padding: 10px
+}
+
+hr {
+    border-top: dotted;
+    border-left: hidden;
+    border-right: hidden;
+    border-bottom: hidden;
+    height: 2px;
+    width:20%;
+}
+
+/* CLASS SELECTORS */
+
+.circular-image {
+    border-radius:100%;
+}
+
+.name {
+    margin:0;
+}
+
+.occupation {
+    margin:0;
+}
+
+.italic {
+    font-style:italic;
+}
